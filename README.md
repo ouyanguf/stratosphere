@@ -2,7 +2,7 @@ Stratosphere
 ============
 An Online Save-for-Later Service
 
-http://ec2-67-202-55-42.compute-1.amazonaws.com
+http://www.cise.ufl.edu/~yahan/stratosphere
 
 (Note: This web will not work any more because the database has been shut down.)
 
